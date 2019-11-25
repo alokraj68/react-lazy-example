@@ -20,7 +20,7 @@ const User = React.lazy(() => import('./User'));
 
 
 **Live**: [react-lazy-example](http://vigneshm.com/react-lazy-example/)  
-**Code**: [github](https://github.com/vigzmv/react-lazy-example)
+**Code**: [github](https://github.com/alokraj68/react-lazy-example)
 
 
 Run the app, open your Network tab in Dev console, Press the button and see the lazily loaded javascript chunk. 🎉🎉
